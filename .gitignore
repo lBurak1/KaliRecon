@@ -1,0 +1,16 @@
+# Sanal ortam
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Tarama sonuçları (otomatik kayıtlar)
+results/
+
+# Editör / OS
+.vscode/
+.idea/
+.DS_Store

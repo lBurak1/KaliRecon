@@ -1,0 +1,9 @@
+# KaliRecon — Python bağımlılıkları
+#
+# NOT: Nmap ve Gobuster Python paketi DEĞİLDİR; bunlar sistem araçlarıdır ve
+# apt ile kurulur (install.sh bunları kontrol eder). Buradaki paketler yalnızca GUI içindir.
+
+customtkinter==5.2.2
+darkdetect==0.8.0
+packaging>=23.0
+Pillow>=10.0.0

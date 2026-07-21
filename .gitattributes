@@ -1,0 +1,5 @@
+# Satır sonlarını normalize et: metin dosyaları depoda daima LF olsun.
+* text=auto eol=lf
+
+# Bash betikleri Kali'de "bad interpreter" hatası vermesin diye kesinlikle LF.
+*.sh text eol=lf
